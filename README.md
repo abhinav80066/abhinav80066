@@ -5,7 +5,7 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a software developer and a problem solver. \
+💡 &nbsp; I'm a software developer and a problem solver.\
 <!-- 💻 &nbsp;I'm currently performing research in the field of multimodal detection of human behavioral patterns at VNIT, Nagpur.\ -->
 🎓&nbsp;I am an Engineering Student(B.Tech, Computer Science and Engineering, 2022 Batch).\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine Learning.\
