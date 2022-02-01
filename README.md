@@ -5,12 +5,12 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a software developer and a problem solver \
+💡 &nbsp; I'm a software developer and a problem solver .\
 <!-- 💻 &nbsp;I'm currently performing research in the field of multimodal detection of human behavioral patterns at VNIT, Nagpur.\ -->
-🎓&nbsp;I am persuing Engineering(B.Tech, Computer Science and Engineering, Batch of 2022).\
+🎓&nbsp;I am an Engineering Student(B.Tech, Computer Science and Engineering, 2022 Batch).\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Machine Learning.\
 ✍️ &nbsp;In my free time, I play guitar, football and pursue writing as my hobbies.\
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the aforementioned topics!\
+💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the physological topics!\
 ✉️ &nbsp;You can email me at abhinav.chaudhary800@gmail.com. I'll try to respond as soon as possible!\
 <!-- 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1CqJoOAelUgnIOMNHqZAlMxR0F3nRoJuo/view?usp=sharing) for more details about work experience.
  -->
@@ -22,7 +22,6 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
