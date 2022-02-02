@@ -1,4 +1,4 @@
-### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there ! I'm Abhinav Chaudhary
+### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !    I'm Abhinav Chaudhary
 ![version :1.02.2022](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=abhinav80066&color=red)&nbsp;
 [![GitHub abhinav80066](https://img.shields.io/github/followers/abhinav80066?label=follow&style=social)](https://github.com/abhinav80066)&nbsp;
@@ -7,7 +7,7 @@
 
 💡 &nbsp;I'm a software developer and a problem solver.
 
-💻 &nbsp;I'm currently exploring Web development and mobile app development.
+💻 &nbsp;I'm currently exploring Web development and mobile app development.\
 🎓 &nbsp;I'm pursuing a Bachelor's degree in Computer Science (B.Tech, Computer Science and Engineering, 2022 Batch).\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Machine Learning.\
 ✍️ &nbsp;In my free time, I play guitar, football and pursue writing as my hobbies.\
