@@ -9,7 +9,7 @@
 
 💻 &nbsp;I'm currently exploring Web development and mobile app development.\
 🎓 &nbsp;I'm pursuing a Bachelor's degree in Computer Science (B.Tech, Computer Science and Engineering, 2022 Batch).\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Machine Learning.\
+🌱 &nbsp;I'm on track for learning more about Machine Learning and Blockchain Technology.\
 ✍️ &nbsp;In my free time, I play guitar, football and pursue writing as my hobbies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on any Tech topics!\
 ✉️ &nbsp;You can email me at abhinav.chaudhary800@gmail.com. I'll try to respond as soon as possible!
