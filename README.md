@@ -5,7 +5,7 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I'm a software developer and a problem solver.
+💡 &nbsp;I'm a Software Developer and a Problem Solver.
 
 💻 &nbsp;I'm currently exploring Web development and mobile app development.\
 🎓 &nbsp;I'm pursuing a Bachelor's degree in Computer Science (B.Tech, Computer Science and Engineering, 2022 Batch).\
