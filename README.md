@@ -11,7 +11,7 @@
 🎓 &nbsp;I'm pursuing a Bachelor's degree in Computer Science (B.Tech, Computer Science and Engineering, 2022 Batch).\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Machine Learning.\
 ✍️ &nbsp;In my free time, I play guitar, football and pursue writing as my hobbies.\
-💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the physological topics!\
+💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on any Tech topics!\
 ✉️ &nbsp;You can email me at abhinav.chaudhary800@gmail.com. I'll try to respond as soon as possible!
 <!-- 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1CqJoOAelUgnIOMNHqZAlMxR0F3nRoJuo/view?usp=sharing) for more details about work experience.
  -->
