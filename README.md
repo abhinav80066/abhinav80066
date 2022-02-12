@@ -37,7 +37,7 @@
 ![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white)&nbsp; -->
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinav80066&show_icons=true&locale=en&layout=compact" alt="abhinav80066" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinav80066&show_icons=true&locale=en&layout=compact" alt="abhinav80066" /></p>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=abhinav80066&show_icons=true&locale=en" alt="abhinav80066" /></p>
 
