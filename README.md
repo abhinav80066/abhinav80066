@@ -2,7 +2,7 @@
 ![version :1.02.2022](https://img.shields.io/badge/version-20.08.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=abhinav80066&color=red)&nbsp;
 <!-- [![GitHub abhinav80066](https://img.shields.io/github/followers/abhinav80066?label=follow&style=social)](https://github.com/abhinav80066)&nbsp; -->
-![build: passing](https://img.shields.io/badge/build-passing-success)
+<!-- ![build: passing](https://img.shields.io/badge/build-passing-success) -->
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I'm a Software Developer and a Problem Solver.
