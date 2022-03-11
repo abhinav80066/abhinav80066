@@ -39,7 +39,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinav80066&show_icons=true&locale=en&layout=compact&theme=dark" alt="abhinav80066" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhinav80066&show_icons=true&locale=en&count_private=true&theme=dark" alt="abhinav80066" /></p>
-<!-- ![Abhinav's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhinav80066&count_private=true) -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinav80066&theme=dark" alt="abhinav80066" /></a> </p>
 
